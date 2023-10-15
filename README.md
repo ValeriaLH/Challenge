@@ -18,7 +18,7 @@ En el repositorio se encuentran dos archivos disponibles, el primero contiene la
 utilizando Python, y el segundo corresponde al proceso de ingestación de datos a través de Apache Airflow, el cual 
 no sé si está en lo correcto ya que es mi primera vez utilizando este programa.
 
-Una vez finalizado el codigo en Python, utilizo nuevamente el prompt de Anaconda, esto para trabajar con Git:
+Una vez finalizado el codigo en Python, utilizo nuevamente el prompt de Anaconda, esto para trabajar (también por primera vez) con Git:
 1. Configuro el nombre de usuario y correo de Git:
    - git config --global user.name "Valeria_LH"
    - git config --global user.email "valeria.scarlett01@gmail.com"
