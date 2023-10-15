@@ -17,3 +17,12 @@ alguna disponible.
 En el repositorio se encuentran dos archivos disponibles, el primero contiene la simulación del proceso ETL 
 utilizando Python, y el segundo corresponde al proceso de ingestación de datos a través de Apache Airflow, el cual 
 no sé si está en lo correcto ya que es mi primera vez utilizando este programa.
+
+Una vez finalizado el codigo en Python, utilizo nuevamente el prompt de Anaconda, esto para trabajar con Git:
+1. Configuro el nombre de usuario y correo de Git:
+   - git config --global user.name "Valeria_LH"
+   - git config --global user.email "valeria.scarlett01@gmail.com"
+2. Inicializo un repositorio Git
+   - git init
+3. Agrego el archivo al repositorio
+   - git add C:\Users\valer\PYTHON\Simulacion\Code_Challenge.ipynb
